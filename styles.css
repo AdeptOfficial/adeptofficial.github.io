@@ -1,0 +1,33 @@
+html {
+    background-color: #111;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+    color: lightblue;
+}
+
+.centered-text {
+    text-align: center;
+}
+
+.bold-text {
+    font-weight: bold;
+}
+
+#home-link {
+    color: limegreen;
+}
+
+p {
+    font-size: 24px;
+  }
+
+.footer-ref {
+    text-align: center;
+}
+
+li {
+    font-size: 24px;
+}
